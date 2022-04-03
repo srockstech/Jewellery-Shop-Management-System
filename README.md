@@ -1,9 +1,9 @@
-#Jewellery Shop Management System
+# Jewellery Shop Management System
 
-##Introduction
+## Introduction
 This is a Jewellery Shop Management System Application (command-line app) made in Turbo C++ using C++ programming language. It is a very useful application for all the jewelers as it can be used for maintaining customer records, item stock, making sales, generating bills by making the calculations automatically, updating the transactions on item stock, maintaining a balance account for each customer, and displaying all the previous sales for each customer. It is a completely functional, usable, and user-friendly application as it uses File Handling to save all the records and is fast and easy to use. One of the best features of this application is that it keeps the data secure with password protection. Also, on a single computer a person can make multiple accounts for his multiple jewellery stores.
 
-##Programming Concepts Used:
+## Programming Concepts Used:
 1.	File Handling
 2.	Classes
 3.	Objects
@@ -14,7 +14,7 @@ This is a Jewellery Shop Management System Application (command-line app) made i
 8.	Pointers
 9.	Constructors
 
-##Preview (In Turbo C++ IDE):
+## Preview (In Turbo C++ IDE):
 
 ![preview1](https://user-images.githubusercontent.com/76954575/161408912-c659c01b-4078-4389-808e-cac7805bcbdb.png)
 
