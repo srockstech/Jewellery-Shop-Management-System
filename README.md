@@ -50,3 +50,4 @@ This is a Jewellery Shop Management System Application (command-line app) made i
 ![preview11](https://user-images.githubusercontent.com/76954575/161409109-f8409922-2c0a-4717-85ec-bea06df47c08.png)
 
 #### <u>Automatically generated invoice in .docx format for printing:
+![preview12](https://user-images.githubusercontent.com/76954575/161410152-7e6e4173-04e3-4846-a4ec-8be35f8af4c9.png)
